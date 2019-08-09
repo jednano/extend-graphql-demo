@@ -1,5 +1,5 @@
 {
-  "name": "private-node-starter",
+  "name": "extend-graphql-demo",
   "private": true,
   "version": "1.0.0",
   "description": "Starter project for Node.js/TypeScript projects.",
@@ -94,12 +94,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jedmao/private-node-starter.git"
+    "url": "git+https://github.com/jedmao/extend-graphql-demo.git"
   },
   "bugs": {
-    "url": "https://github.com/jedmao/private-node-starter/issues"
+    "url": "https://github.com/jedmao/extend-graphql-demo/issues"
   },
-  "homepage": "https://github.com/jedmao/private-node-starter#readme",
+  "homepage": "https://github.com/jedmao/extend-graphql-demo#readme",
   "author": "Jed Mao <jedmao@outlook.com>",
   "license": "MIT",
   "dependencies": {
